@@ -1,6 +1,7 @@
 ## About me 
 
-Master of Science in Business Analytics at W.P. Carey School of Business - Arizona State University.
+- Master of Science in Business Analytics at W.P. Carey School of Business - Arizona State University.
+- Working on a DataCo Smart Supply Chain project: predicting late deliveries and optimizing profit using Python, ML, and an executive dashboard.
 
 ### Connect with me
 
